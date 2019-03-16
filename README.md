@@ -6,7 +6,8 @@ Model is trained in FER2013 facial expression dataset and used with wideResnet f
 
 This model was compared with traditional DLib's face detector.
 
-         ![alt text](https://github.com/tanmaykolte/DeepCam/blob/master/Webp.net-resizeimage.png?raw=true "Test")
+
+![alt text](https://github.com/tanmaykolte/DeepCam/blob/master/Webp.net-resizeimage.png?raw=true "Test")
 
 # Requirement 
 Model trained on fer2013 dataset 
