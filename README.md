@@ -5,8 +5,8 @@ Smart Camera that localize multiple faces and predict Age, Gender and Emotion in
 Model is trained in FER2013 facial expression dataset and used with wideResnet for prediction.
 
 This model was compared with traditional DLib's face detector.
-resizeimage.png
-![alt text](https://github.com/tanmaykolte/DeepCam/blob/master/Webp.net-resizeimage.png?raw=true "Test")
+
+         ![alt text](https://github.com/tanmaykolte/DeepCam/blob/master/Webp.net-resizeimage.png?raw=true "Test")
 
 # Requirement 
 Model trained on fer2013 dataset 
